@@ -1,0 +1,11 @@
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/bin/Debug/netcoreapp3.1/tareaCap5-8
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/bin/Debug/netcoreapp3.1/tareaCap5-8.deps.json
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/bin/Debug/netcoreapp3.1/tareaCap5-8.runtimeconfig.json
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/bin/Debug/netcoreapp3.1/tareaCap5-8.runtimeconfig.dev.json
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/bin/Debug/netcoreapp3.1/tareaCap5-8.dll
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/bin/Debug/netcoreapp3.1/tareaCap5-8.pdb
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/obj/Debug/netcoreapp3.1/tareaCap5-8.csprojAssemblyReference.cache
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/obj/Debug/netcoreapp3.1/tareaCap5-8.AssemblyInfoInputs.cache
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/obj/Debug/netcoreapp3.1/tareaCap5-8.AssemblyInfo.cs
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/obj/Debug/netcoreapp3.1/tareaCap5-8.dll
+/Users/miguelgondres/Documents/cSharp/tareaCap5-8/obj/Debug/netcoreapp3.1/tareaCap5-8.pdb
